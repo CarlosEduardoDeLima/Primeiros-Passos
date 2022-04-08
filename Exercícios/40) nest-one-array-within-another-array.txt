@@ -1,0 +1,9 @@
+Você também pode aninhar arrays dentro de outros arrays, como abaixo:
+
+const teams = [["Bulls", 23], ["White Sox", 45]];
+Isso também é chamado de array multidimensional .
+
+Crie uma matriz aninhada chamada myArray.
+
+// Only change code below this line
+const myArray = [["number", 0], ["Numbers", 1, 2, 3]];
